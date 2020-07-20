@@ -23,7 +23,11 @@ Subtitle: A censorship-resistent web annotation service built for everyone
 
 ### 3. understand PAN
 
-### 4. become publisher
+
+### 4. install PAN
 
 
-### 5. the team behind
+### 5. become publisher
+
+
+### 6. the team behind
