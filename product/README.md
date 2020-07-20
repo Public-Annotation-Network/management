@@ -8,3 +8,10 @@ Our browser extensions, PAN, allow users to annotate on any web pages. Users can
 
 ## Use Cases
 
+### 1. Journalism
+
+### 2. Scientific Research
+
+### 3. Content Creation
+
+### 4. Civic Participation
