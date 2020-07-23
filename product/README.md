@@ -9,7 +9,7 @@ Our browser extensions, PAN, allow users to annotate on any web pages. Users can
 <Add an architecture graph>
 
 
-### 1. Extension >> [Go to Repository](https://github.com/Public-Annotation-Network/extension)
+### 1. Browser Extension >> [Go to Repository](https://github.com/Public-Annotation-Network/extension)
 
 [Add short description]
 
