@@ -10,12 +10,8 @@ What can you find here?
 ### [PAN product concept](https://github.com/Public-Annotation-Network/management/tree/master/product) Start here!
 
 - Product Description 
-- Use Cases
-
-### [Architecture](https://github.com/Public-Annotation-Network/management/tree/master/architecture)
-
 - Technical Diagrams
-
+- Use Cases
 
 ### [Business Model](https://github.com/Public-Annotation-Network/management/tree/master/business)
 
