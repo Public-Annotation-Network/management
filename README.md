@@ -1,25 +1,31 @@
 # 🍳  management 🥘 🍕 🌶
 Project Management
-We're live 🚀
+We're live 🚀 
+
+PAN Website: []
+
 
 What can you find here?
 
+### [PAN product concept](https://github.com/Public-Annotation-Network/management/tree/master/product) Start here!
 
-### [business](https://github.com/Public-Annotation-Network/management/tree/master/business)
+- Product Description 
+- Use Cases
+
+### [Architecture](https://github.com/Public-Annotation-Network/management/tree/master/architecture)
+
+- Technical Diagrams
+
+
+### [Business Model](https://github.com/Public-Annotation-Network/management/tree/master/business)
 
 - Business Model
 - Market Research 
 
-### [product](https://github.com/Public-Annotation-Network/management/tree/master/product) 
 
-- Product Description
-- Use Cases
+### [Website Planning](https://github.com/Public-Annotation-Network/management/tree/master/docs)
 
-### [docs](https://github.com/Public-Annotation-Network/management/tree/master/docs)
-
-- Drafted Website Planning
+- Drafted Website Planning 
 - Drafted Website Content
 
-### [architecture](https://github.com/Public-Annotation-Network/management/tree/master/architecture)
 
-- Technical Diagrams
