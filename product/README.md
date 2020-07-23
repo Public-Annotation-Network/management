@@ -13,11 +13,11 @@ Our browser extensions, PAN, allow users to annotate on any web pages. Users can
 
 [Add short description]
 
-### 2. Publishers >> [Go to Repository](https://github.com/Public-Annotation-Network/publisher)
+### 2. Publisher >> [Go to Repository](https://github.com/Public-Annotation-Network/publisher)
 
 [Add short description]
 
-### 3. Smart Contract >> [Go to Repository](https://github.com/Public-Annotation-Network/subgraph)
+### 3. Subgraph >> [Go to Repository](https://github.com/Public-Annotation-Network/subgraph)
 
 [Add short description]
 
