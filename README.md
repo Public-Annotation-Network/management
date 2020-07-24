@@ -1,4 +1,4 @@
-# 🍳  management 🥘 🍕 🌶
+# 🍳  Public Annotation Network - A Censorship Resistent Service for Web Annotions 🥘 🍕 🌶
 Project Management
 We're live 🚀 
 
