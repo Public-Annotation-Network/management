@@ -2,7 +2,7 @@
 
 __— A Censorship Resistent Service for Web Annotions__
 
-Project Management
+
 We're live 🚀 
 
 __🥘 PAN Landing Page__: []
