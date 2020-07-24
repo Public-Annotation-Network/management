@@ -1,5 +1,7 @@
 # 🍳  Public Annotation Network 🥘 🍕 🌶
-### — A Censorship Resistent Service for Web Annotions
+
+__— A Censorship Resistent Service for Web Annotions__
+
 Project Management
 We're live 🚀 
 
