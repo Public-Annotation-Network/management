@@ -29,4 +29,4 @@
 - Annotators: only through professional selection
 
 
-The purpose of making public annotations is to have a transparent overview of information and public opinions avaiable on the internet. Although there are plenty of public annotation softwares on the market that are open source, the exisiting providers are using centralized storage and hence are prone to censorship. 
+
