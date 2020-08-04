@@ -15,7 +15,7 @@ Our browser extensions, PAN, allow users to annotate on any web pages. Users can
 
 ### 1. Browser Extension >> [Go to Repository](https://github.com/Public-Annotation-Network/extension)
 
-[Add short description]
+This component contributes the most to PAN user experience. By using the browser expension, users could retrieve published annotations that are already on the netowrk or submit their own annotations in relations to specific webpages.
 
 ### 2. Publisher >> [Go to Repository](https://github.com/Public-Annotation-Network/publisher)
 
@@ -38,6 +38,7 @@ Our browser extensions, PAN, allow users to annotate on any web pages. Users can
 
 ### 2. Incentive System
 
+### 3. Whitelisting
 
 ## Potential Use Cases
 
