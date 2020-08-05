@@ -1,6 +1,7 @@
 # Public Annotation Network - PAN 🥘 🍕 🌶
 
 Public Annotation Network (PAN) is a censorship-resistent web annotation service.
+
 Project landing page: [link]
 
 ## Problems to Solve
