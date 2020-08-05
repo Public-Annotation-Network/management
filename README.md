@@ -20,17 +20,17 @@ This component contributes the most to PAN user experience. By using the browser
 
 ### 2. Publisher >> [Go to Repository](https://github.com/Public-Annotation-Network/publisher)
 
-[Add short description]
+[Add short description and how it works]
 
 ### 3. Subgraph >> [Go to Repository](https://github.com/Public-Annotation-Network/subgraph)
 
-[Add short description]
+[Add short description and how it works]
 
 ## Why do we design PAN this way?
 
 ### 1. Publishing Cost
 
-[add explaination]
+[add explaination and how it works]
 
 ### 2. 
 
