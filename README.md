@@ -26,19 +26,21 @@ This component contributes the most to PAN user experience. By using the browser
 
 [Add short description]
 
+## Why do we design PAN this way?
 
-## Twitter Demo Case
+### 1. Publishing Cost
 
-[Add description]
+[add explaination]
+
+### 2. 
 
 
-## Product Roadmap 
+## Future of PAN
 
-### 1. Future look of PAN
+### 1. Incentive System
 
-### 2. Incentive System
+### 2. Whitelisting
 
-### 3. Whitelisting
 
 ## Potential Use Cases
 
