@@ -34,7 +34,7 @@ The PAN subgraph is an optional component of the architecture mainly to reduce q
 
 - Native interaction with IPFS and Ethereum
 
-- Business model
+- Suitable business model
 
 ## Potential Use Cases
 
