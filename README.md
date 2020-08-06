@@ -2,7 +2,7 @@
 
 Public Annotation Network (PAN) is a censorship-resistent web annotation service.
 
-Project landing page: [link]
+Project landing page: https://late-waterfall-9957.on.fleek.co/
 
 ## Problems to Solve
 
