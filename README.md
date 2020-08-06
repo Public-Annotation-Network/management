@@ -26,30 +26,22 @@ The publisher is an optional quality of life component. Its primary objective is
 
 The PAN subgraph is an optional component of the architecture mainly to reduce query times. For every transaction which stores a batch id on-chain - it indexes all annotations of the batch from IPFS and stores an additional reference (e.g. the tweet id, username) for the annotation. To obtain for example all annotations for a user or a tweet the extension (or the publisher) submits a GraphQL query to the subgraph containing the username or the tweet id.
 
-## Why do we design PAN this way?
-
-### 1. Publishing Cost
-
-[add explaination and how it works]
-
-### 2. 
-
-
 ## Future of PAN
 
 - Mainnet
-- Incensitve system
-
+- Incensitve system for publisher network
+- Native interaction with IPFS and Ethereum
+- Financially sustainable
 
 ## Potential Use Cases
 
-### 1. Journalism
+- Journalism
 
-### 2. Scientific Research
+- Scientific Research
 
-### 3. Content Creation
+- Content Creation
 
-### 4. Civic Participation
+- Civic Participation
 
 
 
