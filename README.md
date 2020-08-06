@@ -1,6 +1,6 @@
 # Public Annotation Network - PAN 🥘 🍕 🌶
 
-Public Annotation Network (PAN) is a censorship-resistent web annotation service.
+Public Annotation Network (PAN) is a censorship-resistant web annotation service.
 
 Project landing page: https://late-waterfall-9957.on.fleek.co/
 
@@ -37,9 +37,8 @@ The PAN subgraph is an optional component of the architecture mainly to reduce q
 
 ## Future of PAN
 
-### 1. Incentive System
-
-### 2. Whitelisting
+- Mainnet
+- Incensitve system
 
 
 ## Potential Use Cases
