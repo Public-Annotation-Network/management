@@ -35,13 +35,14 @@ The PAN Subgraph is an optional component of the architecture, mainly used to re
 
 ## Future of PAN
 
-- Mainnet
+- deployment on mainnet
 
-- Incensitve system for publisher network
+- native interaction with IPFS and Ethereum through the browser extension
 
-- Native interaction with IPFS and Ethereum
+- create an incentive layer for publisher services and reduce trust assumptions
 
-- Suitable business model
+- create a network of publishers that drive PAN
+
 
 ## Potential Use Cases
 
@@ -54,5 +55,8 @@ The PAN Subgraph is an optional component of the architecture, mainly used to re
 - Civic Participation
 
 
+## Origins
 
+The Public Annotation Network is a submission for the [HackFS](https://hackfs.com/) 2020 hackathon. It is originally the brainchild of João Santos, and together with Pei-Shan Wu, Johannes Escherich and Dominik Muhs, a 30 day on-off hacking session has yielded the project outlined in this repository. The goal was to improve our skills in familiar and unfamiliar technologies, and have fun - and we succeeded! It has been great, and we'd like to thank the organizers of HackFS, ETHGlobal and Protocol Labs, for organizing the countless virtual sessions, and pulling together so many people.
 
+All of us feel strongly about privacy, and freedom of speech and the press. We hope that this project will inspire new ideas, spark discussions, and move people to connect with us to exchange thoughts.
