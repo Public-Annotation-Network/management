@@ -16,15 +16,16 @@ Our browser extensions, PAN, allow users to annotate on any web pages. Users can
 
 ### 1. Browser Extension >> [Go to Repository](https://github.com/Public-Annotation-Network/extension)
 
-This component contributes the most to PAN user experience. By using the browser expension, users could retrieve published annotations that are already on the netowrk or submit their own annotations in relations to specific webpages.
+The PAN browser extension is the primary medium through which users interact with the Public Annotation Network. By using the extension, users can retrieve published annotations that are already on the network or submit their own annotations in relation to specific webpages. 
 
 ### 2. Publisher >> [Go to Repository](https://github.com/Public-Annotation-Network/publisher)
 
-The publisher is an optional quality of life component. Its primary objective is to make publishing annotations cheaper by batching multiple operations into a single Ethereum transaction. The more transactions are batched together, the cheaper publishing becomes. To provide further utility, the publisher service exposes a REST API that allows for easy querying of existing annotations and optimizing query performance by caching annotations in the registry.
+The publisher is an optional quality of life component. Its primary objective is to make publishing annotations cheaper by batching multiple operations into a single Ethereum transaction. The more Ethereum transactions are batched together, the cheaper the act of publishing becomes. To provide further utility, the publisher service exposes a REST API that allows for easy querying of existing annotations and optimizing query performance by caching annotations in the registry.
 
 ### 3. Subgraph >> [Go to Repository](https://github.com/Public-Annotation-Network/subgraph)
 
-The PAN subgraph is an optional component of the architecture mainly to reduce query times. For every transaction which stores a batch id on-chain - it indexes all annotations of the batch from IPFS and stores an additional reference (e.g. the tweet id, username) for the annotation. To obtain for example all annotations for a user or a tweet the extension (or the publisher) submits a GraphQL query to the subgraph containing the username or the tweet id.
+The PAN Subgraph is an optional component of the architecture, mainly used to reduce query times. For every transaction, which stores a batch id on-chain, it indexes all annotations of the batch from IPFS and stores an additional reference (e.g. the tweet id and username) for the annotation. To obtain for example all annotations for a user or a tweet the extension (or the publisher) submits a GraphQL query to the subgraph containing the username or the tweet id.
+
 
 ## Future of PAN
 
