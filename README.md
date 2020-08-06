@@ -20,7 +20,7 @@ This component contributes the most to PAN user experience. By using the browser
 
 ### 2. Publisher >> [Go to Repository](https://github.com/Public-Annotation-Network/publisher)
 
-[Add short description and how it works]
+The publisher is an optional quality of life component. Its primary objective is to make publishing annotations cheaper by batching multiple operations into a single Ethereum transaction. The more transactions are batched together, the cheaper publishing becomes. To provide further utility, the publisher service exposes a REST API that allows for easy querying of existing annotations and optimizing query performance by caching annotations in the registry.
 
 ### 3. Subgraph >> [Go to Repository](https://github.com/Public-Annotation-Network/subgraph)
 
