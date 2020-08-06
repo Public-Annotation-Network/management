@@ -24,7 +24,7 @@ This component contributes the most to PAN user experience. By using the browser
 
 ### 3. Subgraph >> [Go to Repository](https://github.com/Public-Annotation-Network/subgraph)
 
-[Add short description and how it works]
+The PAN subgraph is an optional component of the architecture mainly to reduce query times. For every transaction which stores a batch id on-chain - it indexes all annotations of the batch from IPFS and stores an additional reference (e.g. the tweet id, username) for the annotation. To obtain for example all annotations for a user or a tweet the extension (or the publisher) submits a GraphQL query to the subgraph containing the username or the tweet id.
 
 ## Why do we design PAN this way?
 
