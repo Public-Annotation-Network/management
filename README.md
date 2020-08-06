@@ -6,7 +6,7 @@ Project landing page: https://late-waterfall-9957.on.fleek.co/
 
 ## Problems to Solve
 
-The goal of having public annotations is to provide users a transparent overview of information and public opinions avaiable on the internet. Although there are already a few (public) annotation softwares on the market that are open source, the exisiting services are mainly using centralized storage and hence are prone to censorship. 
+The goal of having public annotations is to provide users a transparent overview of information and public opinions available on the internet. Although there are already a few (public) annotation softwares on the market that are open source, the existing services are mainly using centralized storage and hence are prone to censorship. 
 
 ## MVP Concept
 
