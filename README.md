@@ -29,9 +29,12 @@ The PAN subgraph is an optional component of the architecture mainly to reduce q
 ## Future of PAN
 
 - Mainnet
+
 - Incensitve system for publisher network
+
 - Native interaction with IPFS and Ethereum
-- Financially sustainable
+
+- Business model
 
 ## Potential Use Cases
 
