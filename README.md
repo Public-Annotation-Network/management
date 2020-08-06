@@ -4,9 +4,15 @@ Public Annotation Network (PAN) is a censorship-resistant web annotation service
 
 Project landing page: https://late-waterfall-9957.on.fleek.co/
 
-## Problems to Solve
+## Why PAN?
 
-The goal of having public annotations is to provide users a transparent overview of information and public opinions available on the internet. Although there are already a few (public) annotation softwares on the market that are open source, the existing services are mainly using centralized storage and hence are prone to censorship. 
+Everyday our society becomes more dependant on centrally controlled platforms, such as social media.
+But these social media sites can censor the information by deleting or mutating the content. They could even control what the users can or cannot see. 
+
+Public web annotations provide users a transparent overview of information and opinions available on the internet. Although there are already a few (public) annotation softwares on the market, the existing services are mainly using centralized storage and hence are prone to censorship. 
+
+That is why we are creating PAN. We are using IPFS and Ethereum to reduce the censorship attack vector.
+
 
 ## MVP Concept
 
